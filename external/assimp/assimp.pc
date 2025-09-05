@@ -1,0 +1,9 @@
+libdir=D:/AAA_Renderer/external/rttr/install/lib
+includedir=D:/AAA_Renderer/external/rttr/install/include
+
+Name: dark
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.2.5
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

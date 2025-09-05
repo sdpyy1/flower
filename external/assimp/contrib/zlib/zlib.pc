@@ -1,0 +1,13 @@
+prefix=D:/AAA_Renderer/external/rttr/install
+exec_prefix=D:/AAA_Renderer/external/rttr/install
+libdir=
+sharedlibdir=
+includedir=
+
+Name: zlib
+Description: zlib compression library
+Version: 
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

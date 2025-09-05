@@ -2,3 +2,25 @@
 .vs
 build
 save
+
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+**.nsight-gfxproj
+**.DotSettings
+**.user
+# cmake
+**.cmake
+
+CMakeFiles/
+# build 
+Debug/
+Release/
+x64/
+
+install

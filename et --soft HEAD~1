@@ -1,0 +1,116 @@
+[33m07f1a45d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mLearn[m[33m)[m Init vs 2022
+[33md67c6f1a[m[33m ([m[1;31morigin/dark[m[33m, [m[1;31morigin/Learn[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdark[m[33m)[m Fix non  supported raytracing graphics card error.
+[33m7a8d3414[m Fixed ssgi A trous filter range bug.
+[33ma27ac3c1[m Enable device features for newest vulkan driver required .
+[33m08cc89b9[m Add MIT license.
+[33m8c4a001b[m Fix upload snapshot crash, fix gbuffer base color precision lost.
+[33mb32f8097[m Clean folders.
+[33m962242e5[m Update readme.md
+[33m94fb276c[m Update readme and config.
+[33m1b64eca6[m Project code clean and fix some bug, release dark branch.
+[33m04147988[m Cloud new capture! Code update later soon.
+[33mbf59e27d[m Fixed cloud first time create error accumulate problem.
+[33m111121e3[m Add simple two sided foliage shading model.
+[33m2fec08e9[m Add smooth outline.
+[33md042c5ab[m Add outline.
+[33m9063a76c[m Add vmd camera and fix some lighting.
+[33mfb8f5146[m Add simple eye render method.
+[33m1106f349[m Update readme.
+[33m9827b736[m Prepare vmd load and add sss skin and openal.
+[33m4859fc2f[m update file icon.
+[33m7692aa54[m update scene icon.
+[33m7d53c69d[m Update hub and add render manager widget, update icon.
+[33m269392c6[m Exposure fusion use more medium default parameter.
+[33m6ed8c30d[m PMX mesh support accelerate structure update.
+[33mc02d9441[m RTX accelerate structure prepare, ready for DDGI.
+[33m261337fd[m Remove fusion downsample pass avoid too much dispatch.
+[33me4aca576[m Shape switch.
+[33mb4b92b17[m Simply optimize fusion.
+[33m0af9bfc3[m Add native exposure fusion implement.
+[33m1c0af0f3[m Fix fog density.
+[33mdac934f5[m Remove const fog.
+[33m94072737[m Add lens and volumetric light.
+[33mdad27a36[m Add simple sequencer.
+[33m7f405bff[m Super resolution fixed.
+[33m70cd5108[m Support pmx simple draw.
+[33m79c1c2ad[m fix bullet include in some machine, and default close cloud.
+[33m8225b7b0[m Fix bullet compile error, fix cloud godray dark artifact.
+[33m65e8cf82[m Add pmx component.
+[33m0d1adcda[m Add customize saba lib, reconstruct miku physics and render code.
+[33mdfc67230[m Replace gtao to hbao+ ssao.
+[33m5c16f86d[m Change coverage to 0.5.
+[33mfb6f9c4b[m Cloud volumetric light add air extinction.
+[33mbc2c9c60[m Add volumetric light for cloud.
+[33mbaf8af6e[m Final cloud version, i don't want to change any param more. :( :tired_face:
+[33ma9eb04eb[m add bullet.
+[33m73942217[m Change some config.
+[33m4746fb14[m update readme.
+[33mf48ae4b3[m update cloud.
+[33m3770df41[m update readme.
+[33m3f7c8c3b[m Move to unreal style lighting. Need to shape cloud.
+[33md8978fbb[m Update cloud params
+[33mc7603f5d[m update shader default value.
+[33me70a10c5[m update fog.
+[33m31a750dd[m Cloud default state change.
+[33m72dbd953[m cloud update.
+[33m839c9443[m update capture.
+[33m432b5a5a[m update capture.
+[33mdd14d7ae[m Cloud preapre.
+[33m239cc280[m prepare cloud.
+[33ma8c6a5cc[m Refract scene struct.
+[33m425ddad9[m Delete Source directory
+[33mf2a13a9d[m Delete Install directory
+[33mf21631df[m Remove readme_assets.
+[33mc99e64fa[m submodule update.
+[33m743891b2[m update terrain,
+[33mb2b459c9[m Async uploader optimize.
+[33m63abc323[m Update RHI.cpp
+[33m8233e70d[m Vulkan sdk used install one.
+[33m3994f179[m Merge branch 'main' of https://github.com/qiutang98/flower
+[33m48a41a5d[m Temporal disable volumetric fog, now the importance thing is sdf gi.
+[33me79cecb6[m Update readme.md
+[33m59faaa72[m Add simple fog effect, still need to optimize.
+[33mdae56570[m Add powder to parameter.
+[33m450fa7c5[m Add more cloud control parameter in inspector.
+[33m1cf982f0[m Clear code and add some parameter.
+[33mc54e1a6d[m Update readme.
+[33mb18a7a36[m Material inspector add.
+[33md6be36cc[m Skylight probe finish.
+[33ma53a86e7[m Skylight add cloud effect, now sky more natural.
+[33m7b3f63af[m Add kuwahara filter.
+[33m1f7f996d[m Fix cloud composition ghost, simply add some aabb clamp for reconstruction.
+[33m13a26a8f[m Move sky to sunsky component, and support cereal.
+[33mf97a123d[m Fix cloud render function.
+[33m78b759fc[m Fix slot mistake.
+[33m5fbf0aee[m Remove multi-scatter cloud lighting model, we use single-scatter version with custom scale parameter.
+[33meb6f82a0[m Remove cloud multi-scatter, we just use single-scatter with some lighting.
+[33mc3ba6c0d[m Cloud multi scatter test.
+[33me152f82c[m Merge branch 'main' of https://github.com/qiutangu/Flower
+[33m77ad9781[m Fix sparse binding RHI error and add dof effect.
+[33mc3a6aa7d[m Update readme.md
+[33m04f745c3[m Update readme.md
+[33m4e5eb474[m Update readme.md
+[33mf781910e[m Update readme.md
+[33m2498ea84[m 2022 End update.
+[33m26be5282[m Fix shader compile problem.
+[33mf75537e1[m FIX pmx motion vector.
+[33m6341f285[m Update readme.md
+[33mf6998f66[m Update readme.md
+[33mba6b52ef[m Update readme.md
+[33m9d22d10e[m Update readme.md
+[33m0c430b18[m Add simple pmx render.
+[33m7f653e25[m Update readme.md
+[33mfdc14cc0[m Volumetric Cloud Production Ready.
+[33m8d0203ab[m Prepare PMX, and clean rendersetting.
+[33me666b73a[m Add sphere and clean meshtool.
+[33me88f3ac2[m Fix static mesh replace some logic bug, also reduce GTAO radius.
+[33mb0103be0[m Clean asset system async loading. fix some logic bug.
+[33mc65e6568[m Fix async upload problem.
+[33mf596bf68[m Add debanding.
+[33m3f73b7d6[m RenderPrepare. Try some other thing,
+[33me4cb7989[m Prepare for SSGI test.
+[33m4ee0947c[m Prepare SSR.
+[33m7c3277cc[m Prepare SSGI.
+[33mdb7d9dc0[m SSR ready, try SSGI.
+[33meb0bef04[m Now i use new user id with my name instead of qiutanguu.
+[33mff98e5b8[m Initial commit
